@@ -1,1 +1,2 @@
-HTML, CSS use to form this page
+# A Revolutionary Mindset
+![alt text](images/superhero.jpg)
