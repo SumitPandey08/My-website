@@ -1,0 +1,53 @@
+.title{
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center horizontally */
+    height: 70px; /* Set an appropriate height */
+    border: 2px solid black; /* Optional border for visualization */
+    background-color: black;
+    color: white;
+    
+  }
+  h1 , p {
+    margin: 0px;
+  }
+  .Trending{text-align: center;
+    
+    background-color: #0a0a0a;
+    color: white;
+    margin: 0px;
+  }
+  nav ul {
+list-style: none;
+display: flex;
+justify-content: center;
+background-color: #333;
+padding: 10px 0;
+}
+
+nav li {
+margin-right: 20px;
+}
+
+nav a {
+text-decoration: none;
+color: white;
+transition: color 0.3s;
+}
+
+nav a:hover {
+color: #0074D9;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #0a0a0a;
+    color: white;
+    
+
+}
+
+nav a:hover {
+color: #0074D9;
+}
