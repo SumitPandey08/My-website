@@ -1,2 +1,2 @@
 # A Revolutionary Mindset
-![alt text](images/superhero.jpg)
+![alt text](./assets/images/superhero.jpg)
